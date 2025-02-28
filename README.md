@@ -1,19 +1,13 @@
-# node-todo-cicd
+# Cloud & DevOps Project 🚀
 
-Run these commands:
+This is a collaborative project focused on deploying a web application using Infrastructure as Code (IaC).
 
+## 🛠️ Technologies Used:
+- Linux, Docker, Kubernetes, Nginx
+- Terraform, AWS, CI/CD (GENKINS)
 
-`sudo apt install nodejs`
+## 🔥 My Contributions:
+✅ Implemented Terraform for infrastructure automation  
+✅ Optimized CI/CD pipeline for seamless deployment  
 
-
-`sudo apt install npm`
-
-
-`npm install`
-
-`node app.js`
-
-or Run by docker compose
-
-test
 
